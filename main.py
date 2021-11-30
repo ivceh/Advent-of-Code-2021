@@ -1,3 +1,3 @@
-from exec_days import exec
+from exec_days import exec_days
 
-exec()
+exec_days()

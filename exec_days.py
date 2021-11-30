@@ -1,5 +1,5 @@
 import time, AoC2021_01
-days = [AoC2021_01.Day01]
+days = [AoC2021_01.day01]
 
 
 def infile(i):
@@ -21,7 +21,7 @@ def exec_all():
         print()
 
 
-def exec(day = None):
+def exec_days(day = None):
     if day is None:
         exec_all()
     else:
