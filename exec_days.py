@@ -1,5 +1,5 @@
-import time, AoC2021_01, AoC2021_02
-days = [AoC2021_01.day01, AoC2021_02.day02]
+import time, AoC2021_01, AoC2021_02, AoC2021_03
+days = [AoC2021_01.day01, AoC2021_02.day02, AoC2021_03.day03]
 
 
 def infile(i, input_add = None):
