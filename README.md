@@ -8,3 +8,4 @@ Programming language: Python 3
 | 02  | [Dive!](https://adventofcode.com/2021/day/2)                              | [AoC2021_02.py](/AoC2021_02.py) |
 | 03  | [Binary Diagnostic](https://adventofcode.com/2021/day/3)                  | [AoC2021_03.py](/AoC2021_03.py) |
 | 05  | [Hydrothermal Venture](https://adventofcode.com/2021/day/5)               | [AoC2021_05.py](/AoC2021_05.py) |
+| 06  | [Lanternfish](https://adventofcode.com/2021/day/6)                        | [AoC2021_06.py](/AoC2021_06.py) |
