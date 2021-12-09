@@ -11,3 +11,4 @@ Programming language: Python 3
 | 06  | [Lanternfish](https://adventofcode.com/2021/day/6)                        | [AoC2021_06.py](/AoC2021_06.py) |
 | 07  | [The Treachery of Whales](https://adventofcode.com/2021/day/7)            | [AoC2021_07.py](/AoC2021_07.py) |
 | 08  | [Seven Segment Search](https://adventofcode.com/2021/day/8)               | [AoC2021_08.py](/AoC2021_08.py) |
+| 09  | [Smoke Basin](https://adventofcode.com/2021/day/9)                        | [AoC2021_09.py](/AoC2021_09.py) |
