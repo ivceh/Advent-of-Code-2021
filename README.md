@@ -14,3 +14,4 @@ Programming language: Python 3
 | 08  | [Seven Segment Search](https://adventofcode.com/2021/day/8)               | [AoC2021_08.py](/AoC2021_08.py) |
 | 09  | [Smoke Basin](https://adventofcode.com/2021/day/9)                        | [AoC2021_09.py](/AoC2021_09.py) |
 | 10  | [Syntax Scoring](https://adventofcode.com/2021/day/10)                    | [AoC2021_10.py](/AoC2021_10.py) |
+| 11  | [Dumbo Octopus](https://adventofcode.com/2021/day/11)                     | [AoC2021_11.py](/AoC2021_11.py) |
