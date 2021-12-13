@@ -16,3 +16,4 @@ Programming language: Python 3
 | 10  | [Syntax Scoring](https://adventofcode.com/2021/day/10)                    | [AoC2021_10.py](/AoC2021_10.py) |
 | 11  | [Dumbo Octopus](https://adventofcode.com/2021/day/11)                     | [AoC2021_11.py](/AoC2021_11.py) |
 | 12  | [Passage Pathing](https://adventofcode.com/2021/day/12)                   | [AoC2021_12.py](/AoC2021_12.py) |
+| 13  | [Transparent Origami](https://adventofcode.com/2021/day/13)               | [AoC2021_13.py](/AoC2021_13.py) |
