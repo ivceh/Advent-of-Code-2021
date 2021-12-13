@@ -41,5 +41,5 @@ def day13(infile):
     maxx, maxy = (max(axis) for axis in zip(*dots))
     for j in range(maxy + 1):
         for i in range(maxx + 1):
-            print('#' if (i, j) in dots else ' ', end='')
+            print('█' if (i, j) in dots else ' ', end='')
         print()
