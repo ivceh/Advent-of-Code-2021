@@ -34,4 +34,4 @@ def day14(infile):
         day14.rules[k] = v
 
     print("Part One: ", solution(polymer, 10))
-    print("Part One: ", solution(polymer, 40))
+    print("Part Two: ", solution(polymer, 40))
