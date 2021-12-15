@@ -39,13 +39,14 @@ def p2cost(cost):
     return f
 
 
-def B(A, i, j, height, width):
+def B(i, j, height, width):
     return (int(A[i % height][j % width]) - 1
             + i // height
             + j // width) % 9 + 1
 
 
 def day15(infile):
+    global A
     with open(infile, "r") as file:
         A = file.read().splitlines()
     height = len(A)
@@ -58,4 +59,4 @@ def day15(infile):
                                  (0, 0),
                                  (height * 5 - 1, width * 5 - 1),
                                  p2cost(lambda i, j:
-                                        B(A, i, j, height, width))))
+                                        B(i, j, height, width))))
