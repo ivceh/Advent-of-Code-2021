@@ -20,3 +20,4 @@ Programming language: Python 3
 | 14  | [Extended Polymerization](https://adventofcode.com/2021/day/14)           | [AoC2021_14.py](/AoC2021_14.py) |
 | 15  | [Chiton](https://adventofcode.com/2021/day/15)                            | [AoC2021_15.py](/AoC2021_15.py) |
 | 16  | [Packet Decoder](https://adventofcode.com/2021/day/16)                    | [AoC2021_16.py](/AoC2021_16.py) |
+| 17  | [Trick Shot](https://adventofcode.com/2021/day/17)                        | [AoC2021_17.py](/AoC2021_17.py) |
