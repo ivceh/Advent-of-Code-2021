@@ -22,3 +22,4 @@ Programming language: Python 3
 | 16  | [Packet Decoder](https://adventofcode.com/2021/day/16)                    | [AoC2021_16.py](/AoC2021_16.py) |
 | 17  | [Trick Shot](https://adventofcode.com/2021/day/17)                        | [AoC2021_17.py](/AoC2021_17.py) |
 | 18  | [Snailfish](https://adventofcode.com/2021/day/18)                         | [AoC2021_18.py](/AoC2021_18.py) |
+| 21  | [Dirac Dice](https://adventofcode.com/2021/day/21)                        | [AoC2021_21.py](/AoC2021_21.py) |
